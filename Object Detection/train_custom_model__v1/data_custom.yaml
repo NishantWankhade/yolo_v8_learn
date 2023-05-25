@@ -1,0 +1,6 @@
+train: C:\Users\ngw33\Desktop\object_detection\train
+val: C:\Users\ngw33\Desktop\object_detection\val
+
+nc: 2
+
+name: ["hat", "jacket"]

@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Colab Notebooks/Training custom model__project1/train/images
+val: /content/drive/MyDrive/Colab Notebooks/Training custom model__project1/val/images
+
+nc: 4
+
+names: ["prohibitory", "danger", "mandatory", "other"]

@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Colab Notebooks/Custom_model_2/train/images
+val: /content/drive/MyDrive/Colab Notebooks/Custom_model_2/val/images
+
+nc: 2
+
+name: ["hat", "jacket"]
